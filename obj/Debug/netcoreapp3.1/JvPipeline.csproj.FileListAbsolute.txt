@@ -1,0 +1,13 @@
+C:\Users\jahuerta\Documents\VSCodeRepo\JvPipeline\bin\Debug\netcoreapp3.1\JvPipeline.exe
+C:\Users\jahuerta\Documents\VSCodeRepo\JvPipeline\bin\Debug\netcoreapp3.1\JvPipeline.deps.json
+C:\Users\jahuerta\Documents\VSCodeRepo\JvPipeline\bin\Debug\netcoreapp3.1\JvPipeline.runtimeconfig.json
+C:\Users\jahuerta\Documents\VSCodeRepo\JvPipeline\bin\Debug\netcoreapp3.1\JvPipeline.runtimeconfig.dev.json
+C:\Users\jahuerta\Documents\VSCodeRepo\JvPipeline\bin\Debug\netcoreapp3.1\JvPipeline.dll
+C:\Users\jahuerta\Documents\VSCodeRepo\JvPipeline\bin\Debug\netcoreapp3.1\JvPipeline.pdb
+C:\Users\jahuerta\Documents\VSCodeRepo\JvPipeline\obj\Debug\netcoreapp3.1\JvPipeline.csprojAssemblyReference.cache
+C:\Users\jahuerta\Documents\VSCodeRepo\JvPipeline\obj\Debug\netcoreapp3.1\JvPipeline.AssemblyInfoInputs.cache
+C:\Users\jahuerta\Documents\VSCodeRepo\JvPipeline\obj\Debug\netcoreapp3.1\JvPipeline.AssemblyInfo.cs
+C:\Users\jahuerta\Documents\VSCodeRepo\JvPipeline\obj\Debug\netcoreapp3.1\JvPipeline.csproj.CoreCompileInputs.cache
+C:\Users\jahuerta\Documents\VSCodeRepo\JvPipeline\obj\Debug\netcoreapp3.1\JvPipeline.dll
+C:\Users\jahuerta\Documents\VSCodeRepo\JvPipeline\obj\Debug\netcoreapp3.1\JvPipeline.pdb
+C:\Users\jahuerta\Documents\VSCodeRepo\JvPipeline\obj\Debug\netcoreapp3.1\JvPipeline.genruntimeconfig.cache
